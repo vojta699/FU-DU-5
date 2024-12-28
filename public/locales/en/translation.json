@@ -1,0 +1,81 @@
+{
+    "navBar": {
+        "logout": "Log out"
+    },
+    "dashboard": {
+        "youHaveToLogin": "You need to log in!",
+        "create": "Create a list",
+        "listInfo": "Displayed shopping lists",
+        "show": "Show:",
+        "active": "Active",
+        "all": "All",
+        "nothing": "We have nothing here for you! :-("
+    },
+    "listCard": {
+        "owner": "Owner",
+        "member": "Member",
+        "state": "State:",
+        "active": "Active",
+        "archived": "Archive"
+    },
+    "createList": {
+        "newList": "Create a new list",
+        "name": "List name",
+        "setName": "Enter the list name",
+        "alertName": "Please enter the list name.",
+        "looksGoodName": "Looks good!",
+        "members": "Members",
+        "setMembers": "Select a member",
+        "alertMembers": "Please select a member!",
+        "items": "Items",
+        "setItems": "Enter the item name",
+        "alertItems": "Please fill in the item name!",
+        "cancel": "Cancel",
+        "create": "Create list"
+    },
+    "listDetail": {
+        "noPermision": "You do not have permission for this list!",
+        "notFound": "Shopping list not found",
+        "owner": "Owner",
+        "members": "Members:",
+        "items": "Items:",
+        "show": "Show:",
+        "unsolved": "Unresolved",
+        "solved": "All",
+        "return": "Back"
+    },
+    "deleteModal": {
+        "confirmation": "Confirmation",
+        "textList": "Do you really want to delete the list named",
+        "textQuestion": "Do you really want to remove",
+        "textMember": "this member",
+        "textItem": "this item",
+        "cancel": "Cancel",
+        "confirm": "Confirm"
+    },
+    "addModal": {
+        "titleName": "Rename list",
+        "name": "Name",
+        "setName": "Enter a new list name",
+        "alertName": "Please enter a new name.",
+        "looksGoodName": "Looks good!",
+        "cancel": "Cancel",
+        "confirmName": "Edit name",
+        "announcement": "Announcement",
+        "message": "No more of us here! You have already added all users.",
+        "tittleMember": "Add a new member",
+        "member": "Member",
+        "chooseMember": "Select a member",
+        "alertMember": "Please select a member.",
+        "confirmMember": "Add member",
+        "titleItem": "Add a new item",
+        "item": "Item name",
+        "setItem": "Enter the item name",
+        "alertItem": "Please enter the item name.",
+        "looksGoodItem": "Looks good!",
+        "state": "Status",
+        "unsolved": "Unresolved",
+        "solved": "Resolved",
+        "confirmItem": "Add item"
+    }
+}

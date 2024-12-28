@@ -1,0 +1,179 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Vojtěch",
+      "email": "vojta@vojta.cz"
+    },
+    {
+      "id": "2",
+      "name": "Petr",
+      "email": "petr@petr.cz"
+    },
+    {
+      "id": "3",
+      "name": "Lukáš",
+      "email": "lukas@lukas.cz"
+    },
+    {
+      "id": "4",
+      "name": "Olda",
+      "email": "olda@olda.cz"
+    },
+    {
+      "id": "5",
+      "name": "Pavel",
+      "email": "pavel@pavel.cz"
+    },
+    {
+      "id": "6",
+      "name": "Josef",
+      "email": "josef@josef.cz"
+    }
+  ],
+  "lists": [
+    {
+      "id": "1",
+      "name": "Pondělní nákup",
+      "status": "ACTIVE",
+      "ownerUserId": "1",
+      "items": [
+        {
+          "itemId": "1",
+          "name": "cibule",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "2",
+          "name": "čokoláda",
+          "status": "SOLVED"
+        },
+        {
+          "itemId": "3",
+          "name": "rum",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "4",
+          "name": "kakao",
+          "status": "SOLVED"
+        },
+        {
+          "itemId": "5",
+          "name": "rohlík",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "7",
+          "name": "pivo",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "8",
+          "name": "máslo",
+          "status": "UNSOLVED"
+        }
+      ],
+      "members": [
+        "2",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Úterní nákup",
+      "status": "ACTIVE",
+      "ownerUserId": "2",
+      "items": [
+        {
+          "itemId": "1",
+          "name": "chleba",
+          "status": "UNSOLVED"
+        }
+      ],
+      "members": [
+        "3"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Středeční nákup",
+      "status": "ARCHIVED",
+      "ownerUserId": "3",
+      "items": [
+        {
+          "itemId": "1",
+          "name": "rohlík",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "2",
+          "name": "víno",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "3",
+          "name": "salám",
+          "status": "SOLVED"
+        }
+      ],
+      "members": [
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Páteční nákup",
+      "status": "ARCHIVED",
+      "ownerUserId": "4",
+      "items": [
+        {
+          "itemId": "1",
+          "name": "mrkev",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "2",
+          "name": "kopr",
+          "status": "UNSOLVED"
+        }
+      ],
+      "members": [
+        "2",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Nedělní nákup",
+      "status": "ACTIVE",
+      "ownerUserId": "5",
+      "items": [
+        {
+          "itemId": "1",
+          "name": "jogurt",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "2",
+          "name": "sádlo",
+          "status": "UNSOLVED"
+        },
+        {
+          "itemId": "3",
+          "name": "voda",
+          "status": "UNSOLVED"
+        }
+      ],
+      "members": [
+        "1",
+        "3",
+        "4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+    "navBar": {
+        "logout": "Odhlas se"
+    },
+    "dashboard": {
+        "youHaveToLogin": "Musíte se přihlásit!",
+        "create": "Vytvořit list",
+        "listInfo": "Zobrazené nákupní seznamy",
+        "show": "Zobrazit:",
+        "active": "Aktivní",
+        "all": "Vše",
+        "nothing": "Nic tu pro vás nemáme! :-("
+    },
+    "listCard": {
+        "owner": "Vlastník",
+        "member": "Člen",
+        "state": "Stav:",
+        "active": "Aktivní",
+        "archived": "Archiv"
+    },
+    "createList": {
+        "newList": "Vytvořit nový list",
+        "name": "Název listu",
+        "setName": "Zadejte název list",
+        "alertName": "Prosím zadejte název listu.",
+        "looksGoodName": "Vypadá to dobře!",
+        "members": "Členové",
+        "setMembers": "Vyber člena",
+        "alertMembers": "Vyberte člena!",
+        "items": "Položky",
+        "setItems": "Zadejte název položky",
+        "alertItems": "Vyplňte název položky!",
+        "cancel": "Zrušit",
+        "create": "Vytvořit list"
+    },
+    "listDetail": {
+        "noPermision": "Nemáte oprávnění k tomuto listu!",
+        "notFound": "Nákupní seznam nenalezen",
+        "owner": "Vlastník",
+        "members": "Členové:",
+        "items": "Položky:",
+        "show": "Zobrazit:",
+        "unsolved": "Nevyřešené",
+        "solved": "Vše",
+        "return": "Zpět"
+    },
+    "deleteModal": {
+        "confirmation": "Potvrzení",
+        "textList": "Opravdu chcete odebrat list s názvem",
+        "textQuestion": "Opravdu chcete odebrat ",
+        "textMember": "tohoto člena",
+        "textItem": "tuto položku",
+        "cancel": "Zrušit",
+        "confirm": "Potvrdit"
+    },
+    "addModal": {
+        "titleName": "Přejmenovat list",
+        "name": "Název",
+        "setName": "Zadejte nový název listu",
+        "alertName": "Prosím zadejte nový název.",
+        "looksGoodName": "Vypadá to dobře!",
+        "cancel": "Zrušit",
+        "confirmName": "Upravit název",
+        "announcement": "Oznámení",
+        "message": "Víc nás tu není! Již máte přidány veškeré uživatele.",
+        "tittleMember": "Přidat nového člena",
+        "member": "Člen",
+        "chooseMember": "Vyber člena",
+        "alertMember": "Prosím vyberte člena.",
+        "confirmMember": "Přidat člena",
+        "titleItem": "Přidat novou položku",
+        "item": "Název položky",
+        "setItem": "Zadejte název položky",
+        "alertItem": "Prosím zadejte název položky.",
+        "looksGoodItem": "Vypadá to dobře!",
+        "state": "Status",
+        "unsolved": "Nevyřešené",
+        "solved": "Vyřešené",
+        "confirmItem": "Přidat položku"
+    }
+}
